@@ -20,15 +20,13 @@
             }
           },
           {
-            "id": "425e8867e7176bdf",
+            "id": "0e98f9e1c68dde1f",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-08-30 19.51.01.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-08-30 19.51.01.excalidraw"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -183,8 +181,8 @@
   },
   "active": "f339fa656adefea4",
   "lastOpenFiles": [
-    "README.md",
     "Excalidraw/Drawing 2025-08-30 19.51.01.excalidraw.md",
+    "README.md",
     "Excalidraw",
     "R&D/Untitled.base",
     "Untitled.md",
