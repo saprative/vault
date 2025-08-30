@@ -33,8 +33,7 @@
               "title": "Drawing 2025-08-30 19.51.01.excalidraw"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2025-08-30 19.51.01.excalidraw.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +116,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Drawing 2025-08-30 19.51.01.excalidraw"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -126,12 +125,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2025-08-30 19.51.01.excalidraw.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Drawing 2025-08-30 19.51.01.excalidraw"
+              "title": "Outgoing links from README"
             }
           },
           {
@@ -155,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2025-08-30 19.51.01.excalidraw.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Drawing 2025-08-30 19.51.01.excalidraw"
+              "title": "Outline of README"
             }
           }
         ],
@@ -184,10 +183,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "425e8867e7176bdf",
+  "active": "f339fa656adefea4",
   "lastOpenFiles": [
-    "README.md",
     "Excalidraw/Drawing 2025-08-30 19.51.01.excalidraw.md",
+    "README.md",
     "Excalidraw",
     "R&D/Untitled.base",
     "Untitled.md",
