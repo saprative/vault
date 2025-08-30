@@ -151,12 +151,12 @@
               "title": "Outline of README"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,6 +170,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f339fa656adefea4",
-  "lastOpenFiles": []
+  "active": "c4360f246fdfb864",
+  "lastOpenFiles": [
+    "Untitled",
+    "R&D"
+  ]
 }
