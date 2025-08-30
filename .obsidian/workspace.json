@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "README"
             }
+          },
+          {
+            "id": "425e8867e7176bdf",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-08-30 19.51.01.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-08-30 19.51.01.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Excalidraw/Drawing 2025-08-30 19.51.01.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +117,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for Drawing 2025-08-30 19.51.01.excalidraw"
             }
           },
           {
@@ -113,12 +126,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Excalidraw/Drawing 2025-08-30 19.51.01.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links from Drawing 2025-08-30 19.51.01.excalidraw"
             }
           },
           {
@@ -142,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "Excalidraw/Drawing 2025-08-30 19.51.01.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of Drawing 2025-08-30 19.51.01.excalidraw"
             }
           }
         ],
@@ -167,13 +180,16 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f339fa656adefea4",
+  "active": "425e8867e7176bdf",
   "lastOpenFiles": [
-    "R&D/Untitled.base",
     "README.md",
+    "Excalidraw/Drawing 2025-08-30 19.51.01.excalidraw.md",
+    "Excalidraw",
+    "R&D/Untitled.base",
     "Untitled.md",
     "Docs",
     "R&D"
