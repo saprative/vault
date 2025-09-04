@@ -1,5 +1,5 @@
 1. nuclios login - this is for logging into the nuclios console 
-2. nuclios logout
+2. nuclios logout - his is for logging into the nuclios console
 3. nuclios instance
 	1. nuclios instance connect
 	2. nuclios instance select
