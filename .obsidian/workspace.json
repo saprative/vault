@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R&D/NucliOS CLI.md",
+                "file": "Docs/NucliOS CLI.md",
                 "mode": "source",
                 "source": false
               },
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R&D/NucliOS CLI.md",
+                "file": "Docs/NucliOS CLI.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -182,10 +182,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f339fa656adefea4",
+  "active": "c4360f246fdfb864",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2025-08-30 19.51.01.excalidraw.md",
-    "R&D/NucliOS CLI.md",
+    "Docs/NucliOS CLI.md",
     "README.md",
     "Excalidraw",
     "R&D/Untitled.base",
