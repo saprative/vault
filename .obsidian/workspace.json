@@ -11,12 +11,14 @@
             "id": "f339fa656adefea4",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2025-08-30 19.51.01.excalidraw.md"
+                "file": "R&D/NucliOS CLI.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-08-30 19.51.01.excalidraw"
+              "icon": "lucide-file",
+              "title": "NucliOS CLI"
             }
           },
           {
@@ -150,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2025-08-30 19.51.01.excalidraw.md",
+                "file": "R&D/NucliOS CLI.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Drawing 2025-08-30 19.51.01.excalidraw"
+              "title": "Outline of NucliOS CLI"
             }
           }
         ],
@@ -182,6 +184,7 @@
   "active": "f339fa656adefea4",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2025-08-30 19.51.01.excalidraw.md",
+    "R&D/NucliOS CLI.md",
     "README.md",
     "Excalidraw",
     "R&D/Untitled.base",
