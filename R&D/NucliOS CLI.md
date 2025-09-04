@@ -1,4 +1,4 @@
-1. nuclios login - th
+1. nuclios login - this is for logging into the nuclios console 
 2. nuclios logout
 3. nuclios instance
 	1. nuclios instance connect
