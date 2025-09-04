@@ -1,6 +1,6 @@
 {
   "commitMessage": "\"Vault update by {{date}}\"",
-  "autoCommitMessage": "\"Vault update by Sappy {{date}}\"",
+  "autoCommitMessage": "\"\\\"Vault update {{date}}\\\"\"",
   "commitMessageScript": "",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
   "autoSaveInterval": 1,
