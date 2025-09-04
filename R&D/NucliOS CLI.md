@@ -17,26 +17,22 @@
 12. nuclios code
 
 13. nuclios code scan  - similar to all 
+	1. parameters
+		1. --report - Both PDF and TXT
+		2. --report=txt
+		3. --report=pdf
+		4. --location=<path> - can be absolute and relative
+	2. nuclios code scan uiac
+	3. Nuclios code scan frontend
+	4. Nuclios code scan backend
+	5. Nuclios code scan nuclios
 
-14. parameters
+15. nuclios code generate 
 
-	1. --report - Both PDF and TXT
-	2. --report=txt
-	3. --report=pdf
-	4. --location=<path> - can be absolute and relative
+16. nuclios code generate frontend
+17. nuclios code generate themes
+18. nuclios code generate backend
 
-19. nuclios code scan uiac
-20. Nuclios code scan frontend
-21. Nuclios code scan backend
-22. Nuclios code scan nuclios
-23. Nuclios scan all
+19. nuclios code
 
-24. nuclios code generate 
-
-25. nuclios code generate frontend
-26. nuclios code generate themes
-27. nuclios code generate backend
-
-28. nuclios code
-
-29. nuclios genai - integrate with GenAI team
+20. nuclios genai - integrate with GenAI team
